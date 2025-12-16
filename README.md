@@ -8,7 +8,6 @@
 
 Application web de scraping d'offres d'emploi depuis plusieurs sources, avec interface moderne et export des donnees.
 
-![JobScraper Preview](docs/preview.png)
 
 ## Fonctionnalites
 
